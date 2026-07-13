@@ -16,26 +16,13 @@ I'm a Computer Science student at **The University of Texas at Austin** passiona
 
 ## 🛠️ Technical Skills
 
-**Languages**
-- Java
-- Python
-- C
-- C++
-- JavaScript
-- SQL
+**Languages:** Java, Python, C, C++, JavaScript, SQL
 
-**Frameworks & Libraries**
-- React
-- Next.js
-- Flask
-- FastAPI
+**Frameworks & Libraries:** React, Next.js, Flask, FastAPI
 
-**Tools & Technologies**
-- Git
-- Linux
-- Microsoft Copilot
-- Power BI
-- Power Apps
+**Developer Tools:** Git, GitHub, Linux
+
+**AI & Business Tools:** Microsoft Copilot, Claude, ChatGPT, Gemini, Power BI, Power Apps
 
 ---
 
