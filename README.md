@@ -28,6 +28,9 @@ I build software that puts AI to work on real problems, with a focus on machine 
 ### 📈 [Grounded Financial Document Q&A with RAG](https://github.com/Break-Through-Tech/Retail-1A-grounded-financial-document-qa-with-rag)
 *Break Through Tech AI Studio, Fall 2026.* A RAG system that answers financial questions from SEC filings with grounded citations, comparing BM25, dense, and reranked retrieval.
 
+### 🧭 [FirstGenCompass](https://firstgencompass.me) · [Code](https://gitlab.com/tmgu/cs373-fall-2026-15)
+*CS 373 Software Engineering, UT Austin (team of 5).* A full-stack web app that helps first-generation and low-income students find affordable colleges, local scholarships, and cities with the largest college-attainment gaps. Built with React, Flask, PostgreSQL, and Docker, with GitLab CI and AWS deployment. 
+
 ### 🤖 [ToneCheck](https://github.com/hk10877/Toxic-Comment-Detector-GWC)
 A Chrome extension that detects toxic language with a machine learning classifier and offers RAG-powered explanations and constructive rewrites.
 
