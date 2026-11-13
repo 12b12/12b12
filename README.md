@@ -1,44 +1,43 @@
 # Hi, I'm Benita Benjamin 👋
 
-I'm a Computer Science student at **The University of Texas at Austin** passionate about building technology that creates meaningful impact. I enjoy exploring software development, artificial intelligence, data-driven solutions, and user-centered technology.
+**Software Engineer focused on AI/ML and secure, reliable systems** | CS @ The University of Texas at Austin
 
----
+I build software that puts AI to work on real problems, with a focus on machine learning, retrieval-augmented generation (RAG), and keeping AI systems safe and trustworthy.
 
 ## 👩‍💻 About Me
 
-- 🎓 B.S. in Computer Science, Minor in Risk Management at The University of Texas at Austin
-- 🌱 Currently learning Artificial Intelligence and Machine Learning
-- 🚀 Interested in software, AI, product, and other technical roles
-- 🤝 Passionate about using technology to solve real-world problems
-
----
+- 🎓 B.S. in Computer Science, Minor in Risk Management, The University of Texas at Austin
+- 🤖 **Break Through Tech AI Program Fellow**: building a RAG system that answers financial questions from SEC filings with grounded citations (Fall 2026 AI Studio)
+- 💻 Experienced in full-stack development with React, Next.js, Flask, and FastAPI
+- 🔐 Growing interest in cybersecurity and AI security: protecting systems and the data behind them
+- 🎯 Seeking Software Engineering, AI/ML, and Security internships
 
 ## 🛠️ Technical Skills
 
-**Languages:** Java, Python, C, C++, JavaScript, SQL
+[![Skills](https://skillicons.dev/icons?i=python,java,c,cpp,js,react,nextjs,flask,fastapi,git,linux)](https://skillicons.dev)
 
-**Frameworks & Libraries:** React, Next.js, Flask, FastAPI
+- **Languages:** Java, Python, C, C++, JavaScript, SQL
+- **Frameworks & Libraries:** React, Next.js, Flask, FastAPI
+- **AI/ML:** RAG, BM25 and dense retrieval, reranking, text classification, LLM APIs
+- **Developer Tools:** Git, GitHub, Linux, Power BI
 
-**Developer Tools:** Git, GitHub, Linux
-
-**AI & Business Tools:** Microsoft Copilot, Claude, ChatGPT, Gemini, Power BI, Power Apps
-
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=12b12&layout=compact&theme=transparent)
 
 ## 📌 Featured Projects
 
-### 🤖 ToneCheck
-A Chrome extension that detects toxic language using a machine learning classifier and provides RAG-powered explanations along with constructive rewrites to encourage more effective communication.
+### 📈 [Grounded Financial Document Q&A with RAG](https://github.com/Break-Through-Tech/Retail-1A-grounded-financial-document-qa-with-rag)
+*Break Through Tech AI Studio, Fall 2026.* A RAG system that answers financial questions from SEC filings with grounded citations, comparing BM25, dense, and reranked retrieval.
 
-### 🔍 Hype Search
-An AI-powered application that analyzes why songs suddenly trend by combining web search with large language models to generate contextual explanations and insights.
+### 🤖 [ToneCheck](https://github.com/hk10877/Toxic-Comment-Detector-GWC)
+A Chrome extension that detects toxic language with a machine learning classifier and offers RAG-powered explanations and constructive rewrites.
 
-### 🎓 Scholarship Pathways
-A web platform that helps students discover scholarships, organize applications, and receive personalized AI-powered guidance throughout the scholarship application process.
+### 🔍 [Hype Search](https://github.com/hk10877/PopularSongAnalysis)
+An AI-powered app that explains why songs suddenly trend by combining web search with large language models.
 
----
+### 🎓 [Scholarship Pathways](https://github.com/12b12/scholarship-pathway)
+A web platform that helps students discover scholarships, organize applications, and get personalized AI-powered guidance.
 
 ## 📫 Connect With Me
 
-- 📧 **benitabenjamin29@gmail.com**
-- 💼 LinkedIn: **www.linkedin.com/in/benita-benjamin-3303a9274**
+- 📧 [benitabenjamin29@gmail.com](mailto:benitabenjamin29@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/benita-benjamin-3303a9274)
