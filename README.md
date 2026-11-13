@@ -21,7 +21,7 @@ I build software that puts AI to work on real problems, with a focus on machine 
 - **AI/ML:** RAG, BM25 and dense retrieval, reranking, text classification, LLM APIs
 - **Developer Tools:** Git, GitHub, Linux, Power BI
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=12b12&layout=compact&theme=transparent)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=12b12&theme=github_dark)
 
 ## 📌 Featured Projects
 
